@@ -1,5 +1,7 @@
 # WEB Stack
 
+> 实现Servlet登录注册功能
+
 ## 1. Servlet
 > Servlet是Java Web开发中处理HTTP请求和响应的组件。
 
